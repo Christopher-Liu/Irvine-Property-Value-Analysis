@@ -1,0 +1,141 @@
+GEO_NAME,GEO_ID,GEO_TYPE,HD_INDEX,LIFE_EXPEC,LESS_HS,BACHELORS,GRAD_DEGRE,SCHOOL_ENR,EARNINGS,HEALTH_IND,ED_INDEX,INCOME_IND
+Northeast Los Angeles,1010,City of Los Angeles Community Plan Area,4.85,83.3,30.9,25.4,8,80.3,24503,7.22,4.27,3.05
+North Hollywood - Valley Village,2130,City of Los Angeles Community Plan Area,4.92,81.6,19.9,32.8,8.4,74.1,27157,6.48,4.51,3.76
+Central City North,1110,City of Los Angeles Community Plan Area,3.5,82.3,39,22.2,6.9,54.4,20909,6.77,1.79,1.95
+Canoga Park - Winnetka - Woodland Hills - West Hills,2200,City of Los Angeles Community Plan Area,6.02,82.8,14.8,37.2,12.9,79.9,34243,7,5.69,5.37
+Sun Valley - La Tuna Canyon,2170,City of Los Angeles Community Plan Area,4.19,82.1,33.5,17.4,4.1,77.6,22596,6.72,3.36,2.49
+Wilmington - Harbor City,4430,City of Los Angeles Community Plan Area,3.66,80,36.5,12.5,3.1,76.9,21728,5.85,2.9,2.22
+Mission Hills - Panorama City - North Hills,2160,City of Los Angeles Community Plan Area,3.99,81.6,34.4,17.8,3.6,75.7,22095,6.49,3.14,2.33
+Westlake,1090,City of Los Angeles Community Plan Area,3.34,82.7,45.9,17.5,3.9,74.7,17026,6.97,2.53,0.53
+Boyle Heights,1020,City of Los Angeles Community Plan Area,3.17,81.9,55.1,7.6,1.6,75.8,18739,6.62,1.69,1.19
+Sun Village,677308,Census-Designated Place,3.66,75.8,34.7,9.9,1.7,74.4,29487,4.07,2.57,4.34
+Granada Hills - Knollwood,2190,City of Los Angeles Community Plan Area,6.23,83.2,11.9,36.3,11.8,84.4,34221,7.16,6.16,5.37
+Central City,1100,City of Los Angeles Community Plan Area,5.5,79.4,18.7,43.8,14.9,62.8,41160,5.6,4.27,6.65
+Reseda - West Van Nuys,2230,City of Los Angeles Community Plan Area,5.04,82.7,24.6,23.5,7,78.3,27782,6.96,4.23,3.92
+Wilshire,1060,City of Los Angeles Community Plan Area,5.41,83.7,20.5,41.3,12.7,75.5,26683,7.39,5.19,3.64
+Southeast Los Angeles,1030,City of Los Angeles Community Plan Area,2.26,77.7,55.3,4.5,0.9,74.8,16921,4.89,1.42,0.49
+West Los Angeles,3270,City of Los Angeles Community Plan Area,7.98,85.4,6.5,65.5,29.1,79.2,49304,8.08,7.97,7.9
+South Los Angeles,1050,City of Los Angeles Community Plan Area,3.1,79.3,39.6,11.6,2.9,78.2,17988,5.55,2.84,0.91
+Sylmar,2180,City of Los Angeles Community Plan Area,4.56,81.4,31.8,16.9,4.5,79.3,26708,6.43,3.6,3.65
+Arleta - Pacoima,2140,City of Los Angeles Community Plan Area,3.74,82.9,47,8.5,2.1,74.5,21644,7.05,1.99,2.19
+Palms - Mar Vista - Del Rey,3290,City of Los Angeles Community Plan Area,6.4,82.4,10.9,52.6,19.7,74.7,37491,6.84,6.35,6
+Venice,3280,City of Los Angeles Community Plan Area,7.77,85.9,6.2,62.3,22.2,70,52797,8.27,6.66,8.37
+West Adams - Baldwin Hills - Leimert,1040,City of Los Angeles Community Plan Area,4.1,79.1,25.3,20.3,7.4,76.1,24254,5.44,3.86,2.98
+San Pedro,4340,City of Los Angeles Community Plan Area,5.38,80.9,19.2,25.6,7.6,82.1,32344,6.2,4.95,4.98
+Van Nuys - North Sherman Oaks,2150,City of Los Angeles Community Plan Area,4.62,80.9,23.3,29,8.3,76.1,25343,6.19,4.38,3.29
+Sherman Oaks - Studio City - Toluca Lake - Cahuenga Pass,2120,City of Los Angeles Community Plan Area,7.62,82.7,2.9,61.8,23,78.9,51988,6.95,7.66,8.27
+Hollywood,1070,City of Los Angeles Community Plan Area,5.52,81.9,15.3,46.3,14.3,70,31319,6.63,5.18,4.75
+Silver Lake - Echo Park - Elysian Valley,1080,City of Los Angeles Community Plan Area,5.96,84,19.3,42.4,13.7,77.6,31673,7.51,5.53,4.83
+Chatsworth - Porter Ranch,2210,City of Los Angeles Community Plan Area,6.57,83.7,11.6,39.8,13.8,83.9,37281,7.39,6.36,5.96
+Walnut Park,683402,Census-Designated Place,4.35,90.5,53.6,5.7,1.6,75.4,19368,10,1.63,1.42
+Brentwood - Pacific Palisades,3310,City of Los Angeles Community Plan Area,9.24,86.3,1.8,78,37.8,87.9,65982,8.47,9.33,9.92
+Westchester - Playa del Rey,3300,City of Los Angeles Community Plan Area,7.99,85.1,3.9,60,24.6,86.8,47527,7.97,8.36,7.65
+Sierra Madre,671806,City,8.24,81.8,1.6,63.7,27.5,92.8,56026,6.59,9.33,8.79
+South Pasadena,673220,City,8.27,85.2,4.5,59,26.6,90.3,50629,8.01,8.71,8.08
+Vincent,682815,Census-Designated Place,4.2,79,27.9,11.4,2.1,79.3,27213,5.4,3.43,3.78
+Lake Los Angeles,639612,Census-Designated Place,3.89,76.2,24.8,5.9,1.8,84.3,26694,4.25,3.77,3.65
+Northridge,2220,City of Los Angeles Community Plan Area,6.35,84.3,9.9,40.6,13.3,86.6,31181,7.6,6.71,4.72
+Sunland - Tujunga - Lake View Terrace - Shadow Hills - East La Tuna Canyon,2250,City of Los Angeles Community Plan Area,5.28,81.2,16.1,24.7,7.2,77.2,32089,6.35,4.56,4.92
+Encino - Tarzana,2240,City of Los Angeles Community Plan Area,7.45,85.2,5.6,51.9,20.3,85.1,42002,7.99,7.57,6.79
+South San Jose Hills,673290,Census-Designated Place,3.58,82.2,43.2,8.1,2.2,72.6,21109,6.76,1.96,2.02
+Bel Air - Beverly Crest,3320,City of Los Angeles Community Plan Area,9.51,87.4,2.3,72.9,38.4,91.7,66113,8.9,9.69,9.93
+Westwood,3260,City of Los Angeles Community Plan Area,6.36,87.7,3.1,72.4,37.1,94.4,16044,9.03,9.95,0.12
+View Park-Windsor Hills,682667,Census-Designated Place,7.88,83.3,4.5,51.5,27.4,91.2,49375,7.22,8.5,7.91
+San Marino,668224,City,9.43,86.5,5.5,71.1,37.5,92.1,77948,8.56,9.72,10
+Cudahy,617498,City,2.84,79.2,57.1,4.6,1.5,77.3,19234,5.51,1.65,1.37
+Westmont,684592,Census-Designated Place,2.83,76.3,30.4,7.3,1.5,71.7,20503,4.28,2.38,1.82
+Lennox,641180,Census-Designated Place,2.63,76.8,51.2,6.3,1.3,78.2,19155,4.51,2.02,1.34
+Paramount,655618,City,3.71,80.2,42.1,8.2,2.2,77.3,23480,5.9,2.46,2.76
+Hermosa Beach,633364,City,9.01,85.4,1,71,25.5,85.9,70730,8.08,8.93,10
+Duarte,619990,City,5.49,80.5,17.8,30.4,11.9,82.4,32487,6.03,5.44,5.01
+Artesia,602896,City,4.69,80.3,23.1,26.5,7.7,79.9,26175,5.94,4.61,3.51
+Alhambra,600884,City,5.76,83.7,19.3,32.9,10.7,80.2,30913,7.38,5.22,4.66
+East Whittier,621292,Census-Designated Place,5.55,83.6,12.3,17.4,5.2,78.4,31993,7.32,4.44,4.9
+West Hollywood,684410,City,6.64,83.3,4.6,62.6,17.1,54.4,44276,7.19,5.56,7.15
+Lomita,642468,City,5.33,80.2,13.2,28.1,8.8,81,31616,5.9,5.28,4.82
+Manhattan Beach,645400,City,9.34,86.1,2.2,73.6,31.3,91.2,82340,8.37,9.64,10
+El Segundo,622412,City,7.39,82.7,4.4,49.3,17.2,81.4,51458,6.95,7.02,8.2
+Citrus,613560,Census-Designated Place,4.49,81.9,26.8,12.9,3.3,77.1,26044,6.63,3.38,3.47
+Hawaiian Gardens,632506,City,3.83,83.6,41.2,10.1,2,70.3,21845,7.33,1.91,2.26
+Bellflower,604982,City,4.74,80.2,22.4,16.6,4.2,79.5,29413,5.91,4.01,4.32
+La Mirada,640032,City,5.99,82.2,11.2,29.8,11.7,80.4,35942,6.76,5.5,5.71
+Maywood,646492,City,3.11,81.3,58.8,4.7,0.7,75.2,19651,6.37,1.45,1.52
+West Carson,684144,Census-Designated Place,6.13,83.5,15.2,34.5,8.5,80.8,35816,7.28,5.44,5.68
+Quartz Hill,659052,Census-Designated Place,5.56,82.4,15,18.4,8.6,76.1,35214,6.82,4.29,5.57
+Bell Gardens,604996,City,3.16,81.8,55.7,5.4,1.1,76.3,19065,6.58,1.58,1.31
+Bell,604870,City,3.9,86.5,52.6,7.3,1.1,76.3,19207,8.53,1.81,1.36
+San Fernando,666140,City,4.61,82.7,41.5,12,2.3,83.1,26673,6.98,3.21,3.64
+West Puente Valley,684774,Census-Designated Place,4.35,82.2,36.4,8.8,2.3,78.7,25872,6.73,2.88,3.43
+Signal Hill,671876,City,5.43,78.4,14.1,35.6,11.9,77.2,36280,5.17,5.34,5.77
+Florence-Graham,624477,Census-Designated Place,2.44,78,58.5,4.4,0.9,73,18405,5.02,1.24,1.07
+Altadena,601290,Census-Designated Place,6.76,82.9,10.5,46.3,19.5,81.7,40237,7.06,6.75,6.49
+Lawndale,640886,City,4.23,80.6,30,15.6,3.8,79.4,24380,6.07,3.6,3.02
+Santa Monica,670000,City,7.83,83.2,4.7,65.3,28.1,80.4,51681,7.15,8.11,8.23
+Valinda,681638,Census-Designated Place,4.31,82.3,33.8,12,2.3,76.7,25026,6.79,2.95,3.2
+South Whittier,673430,Census-Designated Place,4.86,81.1,25,14.9,4,80.7,29634,6.29,3.92,4.37
+Walnut,683332,City,7.52,85.8,7,52.4,15.4,86.6,42500,8.24,7.46,6.87
+Pomona,658072,City,4.13,81.7,32.5,17.6,5,76.9,22457,6.56,3.39,2.45
+La Puente,640340,City,4.34,82.9,39.5,9.2,2.1,78.8,25128,7.02,2.76,3.23
+Calabasas,609598,City,8.24,84,3,63.7,31.6,88.1,51611,7.49,9,8.22
+Pasadena,656000,City,6.75,82.9,12.6,50,23.7,79.8,39731,7.03,6.83,6.4
+La Crescenta-Montrose,639045,Census-Designated Place,7.58,82.3,4.6,52.5,18.3,91.5,48518,6.78,8.16,7.79
+Rosemead,662896,City,4.58,83.8,33.8,16.8,3.9,80.1,23444,7.43,3.56,2.75
+Pico Rivera,656924,City,4.44,81.3,31.8,11.2,2.6,79,26960,6.37,3.23,3.71
+Arcadia,602462,City,7.5,85.3,7.9,51.8,19.5,89.4,41080,8.03,7.85,6.63
+Burbank,608954,City,6.4,82.4,11.3,38.3,11.4,80.6,40055,6.84,5.89,6.46
+Monrovia,648648,City,5.88,80.3,11.2,36.6,12.5,83.1,35389,5.94,6.11,5.6
+Baldwin Park,603666,City,4.24,82.6,37.4,11.3,2.5,80,23374,6.92,3.08,2.72
+La Cañada Flintridge,639003,City,9.03,83.9,2.4,76.1,36.1,91.2,67500,7.44,9.64,10
+West Whittier-Los Nietos,684921,Census-Designated Place,4.87,82,28.6,12.6,3.4,79.9,29707,6.67,3.56,4.39
+Malibu,645246,City,9.07,89.8,2.3,60.2,27.9,90.7,52687,9.91,8.95,8.36
+Monterey Park,648914,City,5.85,85.1,21.3,30.4,9.2,80.8,30546,7.96,5.02,4.58
+Lancaster,640130,City,4.46,76.4,18.6,15.1,5.3,75.5,33736,4.32,3.78,5.27
+East San Gabriel,621096,Census-Designated Place,6.94,85.2,12.6,45.4,14.4,88.4,36382,8,7.03,5.79
+Norwalk,652526,City,4.67,81,26.5,15.4,4.1,77.8,28692,6.24,3.61,4.15
+East Rancho Dominguez,621034,Census-Designated Place,2.59,76.1,47.3,4.3,1.2,74.7,20391,4.23,1.77,1.78
+Rowland Heights,663218,Census-Designated Place,6.26,87,15.6,36.3,9,81,30042,8.77,5.55,4.46
+Montebello,648816,City,4.92,83.7,28.3,18.7,5.3,77.5,26814,7.38,3.7,3.68
+Long Beach,643000,City,5,79.4,20.6,29.2,10.4,77.7,30848,5.6,4.75,4.65
+Palmdale,655156,City,4.49,79.8,25.8,14.8,4.8,78.4,28237,5.74,3.7,4.04
+Palos Verdes Estates,655380,City,9.3,85.5,1.4,75.1,34.8,92.8,82813,8.1,9.79,10
+Santa Clarita,669088,City,6.65,84,11,32.7,10.4,84.1,40271,7.51,5.94,6.5
+West Covina,684200,City,5.63,83.2,16.9,26.5,6.5,81.2,31285,7.18,4.96,4.75
+Claremont,613756,City,7.06,82.9,6.8,56.2,31.4,92.9,33380,7.03,8.95,5.2
+La Verne,640830,City,6.46,81.8,8.9,36.7,14,83.5,40150,6.59,6.31,6.48
+Lynwood,644574,City,3.52,81.7,47.2,6,1.6,77,20842,6.55,2.08,1.93
+Covina,616742,City,5.4,80.8,14,25.9,7.1,81.5,32116,6.15,5.12,4.93
+Whittier,685292,City,5.67,82.1,16.7,24.2,9.4,79.4,34819,6.71,4.82,5.49
+Gardena,628168,City,5.46,83.5,18.2,23.2,5.5,80.4,30074,7.29,4.63,4.47
+East Los Angeles,620802,Census-Designated Place,3.28,81.3,53.3,6.1,1.3,75.6,20424,6.39,1.67,1.79
+Culver City,617568,City,7.56,83.4,7.8,53.4,22.7,82.3,50272,7.26,7.38,8.03
+Azusa,603386,City,4.27,80.7,22.3,19.6,6.3,83.3,21371,6.12,4.6,2.1
+Avocado Heights,603344,Census-Designated Place,5.18,84.1,27,15.4,5,78.9,29098,7.56,3.73,4.24
+Hawthorne,632548,City,4.49,80.5,26.2,19,4.9,78.3,26303,6.05,3.87,3.54
+Del Aire,618352,Census-Designated Place,6.38,83.8,19.1,34.1,11.3,82.4,38517,7.41,5.53,6.19
+San Gabriel,667042,City,5.53,84.3,21.9,30.6,8.1,84.6,26613,7.64,5.31,3.62
+Inglewood,636546,City,4.22,79.8,27.5,18.2,6,78.5,24638,5.74,3.84,3.09
+Torrance,680000,City,7.3,84.1,6.5,45.9,15.4,84.8,45422,7.54,7.02,7.33
+Temple City,678148,City,6.31,82.6,13.8,37.3,11.3,87,35579,6.94,6.34,5.64
+Glendora,630014,City,6.06,81.1,9.8,32.5,12.3,83.4,36855,6.3,6,5.88
+Stevenson Ranch,674130,Census-Designated Place,8.75,86.2,4.7,50.9,20.4,91.7,63247,8.41,8.2,9.63
+El Monte,622230,City,4.31,85.1,42.2,11.7,2.3,77.7,22088,7.94,2.65,2.33
+Lakewood,639892,City,5.84,80.2,12.1,27.8,8,79.8,40060,5.91,5.16,6.46
+Compton,615044,City,3.19,78.4,39.9,7.3,1.9,74.7,21444,5.18,2.25,2.13
+Huntington Park,636056,City,3.11,81.9,58.6,5.8,1.2,76.9,18496,6.64,1.61,1.1
+Castaic,611796,Census-Designated Place,7.81,88.9,8.1,32.8,8.7,86.4,47795,9.53,6.23,7.68
+Carson,611530,City,5.07,80.8,20.4,24.4,6.4,78.4,30650,6.16,4.44,4.6
+Agoura Hills,600394,City,7.53,81.8,4.9,51.3,20.9,85.9,52395,6.6,7.68,8.32
+Commerce,614974,City,3.96,81.7,45,7.5,3.1,80.3,23358,6.55,2.62,2.72
+Glendale,630000,City,6.04,84.1,15.6,37.9,13,81.7,31110,7.55,5.85,4.71
+Hacienda Heights,631596,Census-Designated Place,6.43,84.3,14.2,35.9,10.7,82.2,36868,7.62,5.77,5.88
+Beverly Hills,606308,City,8.7,86.6,5,61.1,30,88.1,55893,8.6,8.73,8.77
+Cerritos,612552,City,7.61,86.4,8.3,48.2,17.2,87.1,43340,8.5,7.34,7.01
+South El Monte,672996,City,4.15,85.6,50.1,7.4,2.1,77.3,21666,8.18,2.07,2.2
+Santa Fe Springs,669154,City,5.2,82.3,23.2,14.2,4.3,81.1,31495,6.78,4.03,4.79
+Rancho Palos Verdes,659514,City,9.12,86.7,2.4,64.9,31.1,94.3,58699,8.61,9.65,9.11
+South Gate,673080,City,3.93,83.6,47.6,7.6,1.7,76.6,22228,7.32,2.1,2.38
+Diamond Bar,619192,City,7.38,85.4,7.9,50.9,17.2,86.7,41012,8.08,7.44,6.62
+Downey,619766,City,5.12,81.4,23.9,21.4,6.1,79.1,31152,6.43,4.2,4.72
+Redondo Beach,660018,City,7.99,82.3,4.2,56.9,21.9,85.4,59819,6.78,7.96,9.24
+San Dimas,666070,City,6.62,81.9,7.9,35.7,13.3,87.2,40843,6.62,6.65,6.59
+Harbor Gateway,4350,City of Los Angeles Community Plan Area,3.91,78.7,27.4,19.7,4,78.1,23106,5.29,3.78,2.64
